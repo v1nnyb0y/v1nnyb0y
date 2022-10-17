@@ -1,4 +1,4 @@
-👋 My name is **Vadim Zhdanov** and I work as a FullStack developer at [ClickPay](https://clickpay.com/). 
+👋 My name is **Vadim Zhdanov** and I work as a FullStack developer at [ClickPay](https://clickpay.com/) or as a professional startupper, as you like more.  
 
 👨‍💻 I mostly code in **Java/Kotlin, Python and C#**, developing distributed infrastructure services.
 
