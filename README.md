@@ -10,5 +10,5 @@
 
 📫 You can contact me via <a target="_blank" href="https://t.me/vdzhdn">telegram</a> or vadim@zhdanov.tech.
 
-📄 The Product Manager resume is available [here](https://zhdanov.tech/cv/pm_cv_vadim_zhdanov.pdf).
+📄 The Product Manager resume is available [here](https://zhdanov.tech/cv/pm_cv_vadim_zhdanov.pdf). <br />
 📄 The Software Engineer resume is available [here](https://zhdanov.tech/cv/dev_cv_vadim_zhdanov.pdf).
